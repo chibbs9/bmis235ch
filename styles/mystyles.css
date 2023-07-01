@@ -1,0 +1,17 @@
+.greytext {
+    color: rgb(107, 102, 102);
+}
+
+h1 {
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2 {
+    color: royalblue;
+}
+
+h3 {
+    font-weight: lighter;
+    color: rgb(182, 84, 84);
+}
